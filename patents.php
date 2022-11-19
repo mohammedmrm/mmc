@@ -104,7 +104,7 @@
 
    <?php
     require("header.php");
-    $id = 29;
+    $id = 26;
     $perpage = 24;
     if (isset($_GET['page'])) {
       if (!empty($_GET['page'])) {

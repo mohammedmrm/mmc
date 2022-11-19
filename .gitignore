@@ -4,3 +4,5 @@ bootstrap-3.3.7-dist/
 news/
 media/
 img/
+courses/
+*.sql
