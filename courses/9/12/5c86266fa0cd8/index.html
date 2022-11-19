@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html ng-app="reader.Kotobee">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="viewport-fit=cover, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, width=device-width">
+    <meta http-equiv="Content-Security-Policy" content="default-src * gap://ready file: filesystem: data:; style-src 'self' 'unsafe-inline' filesystem: data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.youtube.com http://*.youtube.com https://*.ytimg.com http://*.ytimg.com;img-src * filesystem: data: blob: android-webview-video-poster:">
+
+    <link href="" rel="shortcut icon">
+
+    <link rel="stylesheet" href="css/styles.min.css">
+
+
+    
+
+
+    <script src="config.js"></script>
+
+    <!--<script src="cordova.js" type="text/javascript" charset="utf-8"></script>-->
+    <!--<script src="lib/zip/zip.js"></script>-->
+    <!--<script src="lib/zip/zip-ext.js"></script>-->
+    <script src="lib/ionic/release/js/ionic.bundle.min.js"></script>
+    <!--<script src="lib/angular-route/angular-route.min.js"></script>-->
+    <script src="lib/ionic/release/js/angular-ui/angular-ui-router.min.js"></script>
+    <script src="lib/angular-css-injector/angular-css-injector.js"></script>
+    <script src="lib/angularjs-scorm-wrapper/angularjs-scorm-wrapper.min.js"></script>
+    <script src="lib/clipboard/ZeroClipboard.min.js"></script>
+    <script src="lib/tinCan/tincan-min.js"></script>
+
+    <script src="js/templates.js?c=190"></script>
+
+
+    <script src="js/lib.min.js"></script>
+    <script src="js/script.min.js"></script>
+
+
+    
+
+
+    <style type="text/css" user></style>
+    <style type="text/css" kotobee></style>
+    <script type="text/javascript" kotobee></script>
+
+<meta property="og:title" content="Untitled Book"/>
+<meta name="description" content="No description available"/>
+<meta property="og:description" content="No description available"/>
+<meta property="og:image" content="epub/EPUB/imgs/t6.png"/>
+<meta property="og:image:type" content="image/png">
+<link rel="image_src" type="image/png" href="epub/EPUB/imgs/t6.png"/>
+</head>
+
+<body id="kotobee" ng-controller="GlobalCtrl" ng-init="init()" ng-class="(mobile?'mobile':'web')+' '+data.settings.language+' '+((data.settings.language=='en')?'en':'notEn')" animation="slide-left-right-ios7">
+<ion-nav-view></ion-nav-view>
+<!--<div id="kotobeeDebug">-->
+    <!--Started...-->
+<!--</div>-->
+
+<div id="html5Fallback" class="card ui">
+     <div class="item item-divider">
+        <i class="icon ion-alert-circled"></i> <strong>HTML5-Supported Browser Required</strong>
+    </div>
+    <div class="item item-text-wrap">
+        The ebook you are displaying may contain multimedia and interactive elements that requires HTML5 capabilities in order to run.
+        Your current browser is incapable of supporting all these elements. <br/>
+        If you would like to continue despite the consequences, please click the button below.
+    </div>
+    <div class="item item-divider">
+        <a class="button fullWidth" onclick="continueWithoutHTML5()">Continue despite the consequences..</a>
+    </div>
+</div>
+
+<div class="alignCenter ui" id="kotobeeLink">
+    <!--<a href="https://www.kotobee.com">Ebook created using Kotobee</a>-->
+</div>
+
+<div id="localFallback" class="card ui">
+    <div class="item item-divider">
+        <i class="icon ion-alert-circled"></i> <strong>Error running locally!</strong>
+    </div>
+    <div class="item item-text-wrap">
+        <p>The Kotobee reader web application needs to be run through a web server, otherwise, odd behaviour may be
+            experienced.</p>
+
+        <p>To resolve and run as intended, you may do one of the following procedures:
+        <ul>
+            <li class="item"><i class="icon fa fa-chevron-circle-right"></i> Upload all your files to an online server,
+                and access the directory through
+                the browser
+            </li>
+            <li class="item"><i class="icon fa fa-chevron-circle-right"></i> Set a local web server, using something
+                like <a
+                        href="http://www.wampserver.com/en/">Wampserver</a> and
+                access your directory through this local server
+            </li>
+            <li class="item"><i class="icon fa fa-chevron-circle-right"></i> [Advanced] Use the switch <em>--allow-file-access-from-files</em>
+                to run
+                Google Chrome. This may be done
+                as follows:<br/>
+
+                <div>
+                    OS X <br/>
+                    <code>open -a 'Google Chrome' --args -allow-file-access-from-files</code>
+                </div>
+
+                <div>
+                    On other *nix <br/>
+                    <code>google-chrome --allow-file-access-from-files</code>
+                </div>
+
+                <div>
+                    On windows <br/>
+                    <code>C:\ ... \Application\chrome.exe --allow-file-access-from-files</code>
+                </div>
+            </li>
+        </ul>
+        </p>
+    </div>
+    <div class="item item-divider">
+        <a class="button fullWidth" onclick="continueLocally()">Continue despite the consequences..</a>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<ImageCarouselPlugin>
+<label>FACE</label>
+<images>
+<image>
+<img width="768" autosize="true" height="768">https://www.bookwidgets.com/create/api/resources/48/4822883702407168/1b/1b966ee2-8f2e-4bdc-aed7-c28f3bfe2c05.png?filename=aa1.png</img>
+<resize-policy value="Cover entire area, keep aspect ratio">Cover entire area, keep aspect ratio</resize-policy>
+<fillcolor>#000000</fillcolor>
+<hotspots>
+<TextBalloon>
+<x>588</x>
+<y>462</y>
+</TextBalloon>
+<TextBalloon>
+<text searchable="true">MASSRTER</text>
+<x>590</x>
+<y>469</y>
+</TextBalloon>
+<TextBalloon>
+<text searchable="true">CORRONAL</text>
+<x>179</x>
+<y>92</y>
+</TextBalloon>
+<TextBalloon>
+<text searchable="true">MENTAL</text>
+<x>236</x>
+<y>671</y>
+</TextBalloon>
+<TextBalloon>
+<text searchable="true">BODY</text>
+<x>478</x>
+<y>587</y>
+</TextBalloon>
+</hotspots>
+</image>
+</images>
+<direction value="left-to-right">left-to-right</direction>
+<LocalizationMap>
+<localization>
+<phrase>Images viewed</phrase>
+</localization>
+<localization>
+<phrase>Image views</phrase>
+</localization>
+</LocalizationMap>
+<DesignConstants widget_backgroundimage=",auto" widget_color="#3498DB" template="Light Background" widget_font="Verdana"/>
+<cover autosize="true"/>
+<widget_orientation value="Horizontal">Horizontal</widget_orientation>
+</ImageCarouselPlugin>

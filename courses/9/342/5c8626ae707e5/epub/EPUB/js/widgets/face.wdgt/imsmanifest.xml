@@ -1,0 +1,72 @@
+<manifest version="1" identifier="com.kidimedia.ibook-widgets.image_carousel-FACE.wdgt" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd&#xa;http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd&#xa;http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>1.2</schemaversion>
+</metadata>
+<organizations default="image_carousel-FACE.wdgt">
+<organization identifier="image_carousel-FACE.wdgt">
+<title>FACE.wdgt</title>
+<item identifier="item_1" identifierref="resource_1">
+<title>image_carousel-FACE.wdgt</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource type="webcontent" identifier="resource_1" adlcp:scormtype="sco" href="index.html">
+<file href="4524f17a5640c6cc_S_768_768.png"/>
+<file href="config.css"/>
+<file href="config.js"/>
+<file href="config.xml"/>
+<file href="/css/bookwidgets.css"/>
+<file href="/css/bwicons.css"/>
+<file href="/css/fonts/icomoon.eot"/>
+<file href="/css/fonts/icomoon.svg"/>
+<file href="/css/fonts/icomoon.ttf"/>
+<file href="/css/fonts/icomoon.woff"/>
+<file href="/css/imagecarousel.css"/>
+<file href="/css/jquery.dialogsheet.css"/>
+<file href="/css/jquery.tipsy.css"/>
+<file href="/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png"/>
+<file href="/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png"/>
+<file href="/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png"/>
+<file href="/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png"/>
+<file href="/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png"/>
+<file href="/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png"/>
+<file href="/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png"/>
+<file href="/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png"/>
+<file href="/css/smoothness/images/ui-icons_222222_256x240.png"/>
+<file href="/css/smoothness/images/ui-icons_2e83ff_256x240.png"/>
+<file href="/css/smoothness/images/ui-icons_454545_256x240.png"/>
+<file href="/css/smoothness/images/ui-icons_888888_256x240.png"/>
+<file href="/css/smoothness/images/ui-icons_cd0a0a_256x240.png"/>
+<file href="/css/smoothness/jquery-ui-1.8.23.css"/>
+<file href="Default.png"/>
+<file href="/img/activemarkericon.png"/>
+<file href="/img/backbutton@2x.png"/>
+<file href="/img/closebtn.png"/>
+<file href="/img/greenmarker.png"/>
+<file href="/img/ibw-ribbon.png"/>
+<file href="index.html"/>
+<file href="Info.plist"/>
+<file href="/js/bwdynamicloader.js"/>
+<file href="/js/hammer-2.0.4.min.js"/>
+<file href="/js/hammer.fakemultitouch.js"/>
+<file href="/js/hammer.min.js"/>
+<file href="/js/imagecarousel.js"/>
+<file href="/js/initgooglemaps.js"/>
+<file href="/js/jquery-1.8.min.js"/>
+<file href="/js/jquery-ui-1.8.23.min.js"/>
+<file href="/js/jquery.class.min.js"/>
+<file href="/js/jquery.dialogsheet.js"/>
+<file href="/js/jquery.gmap-1.1.0-min.js"/>
+<file href="/js/jquery.hammer-2.0.0.js"/>
+<file href="/js/jquery.hammer.min.js"/>
+<file href="/js/jquery.lang.string.min.js"/>
+<file href="/js/jquery.tipsy.js"/>
+<file href="/js/jquery.ui.map.full.min.js"/>
+<file href="/js/jquery.ui.touch-punch.min.js"/>
+<file href="/js/utils.js"/>
+<file href="resourcemap.json"/>
+</resource>
+</resources>
+</manifest>

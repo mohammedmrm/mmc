@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/#" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Properties Evaluation of a Functionally Graded Titanium Dental Implant Synthesized By 3D Printing</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:06c5e14b-02d2-c91a-3b10-0026c98ff0fb</dc:identifier>
+        <meta name="cover" content="img0" />
+
+        <dc:creator>ALYAA SABRI</dc:creator>
+        <dc:publisher>N/A</dc:publisher>
+        <dc:rights>Kotobee</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>&lt;p&gt;Design lecture by Alyaa Sabri&lt;/p&gt;
+</dc:description>
+        <meta property="dcterms:modified">2019-03-06T10:42:39Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/raw/syvm2n.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/soecn0.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/raw/st15ix.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/raw/s61qnf.xhtml" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/file83142.png" properties="cover-image" media-type="image/png"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>

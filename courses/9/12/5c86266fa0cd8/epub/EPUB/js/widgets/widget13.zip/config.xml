@@ -1,0 +1,179 @@
+<Chart>
+<title searchable="true">Average number of dental caries on permanent tooth surface by age.</title>
+<show_axis>true</show_axis>
+<allow_column_header_changes>false</allow_column_header_changes>
+<allow_row_header_changes>false</allow_row_header_changes>
+<hide_legend>false</hide_legend>
+<save_answers>true</save_answers>
+<uuid2>{6c516c50-e132-11e8-848a-b345047909fe}</uuid2>
+<chartdata>
+<labels>
+<label width="100" searchable="true">Mean DMFS</label>
+</labels>
+<values>
+<value height="20">
+<label searchable="true">18-19</label>
+<data>
+<node searchable="true">10</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">20-29</label>
+<data>
+<node searchable="true">20</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">30-39</label>
+<data>
+<node searchable="true">30</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">40-49</label>
+<data>
+<node searchable="true">40</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">50-59</label>
+<data>
+<node searchable="true">50</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">60-69</label>
+<data>
+<node searchable="true">60</node>
+</data>
+</value>
+<value height="20">
+<label searchable="true">70</label>
+<data>
+<node searchable="true">70</node>
+</data>
+</value>
+</values>
+</chartdata>
+<LocalizationMap>
+<localization>
+<phrase>All chart data will be permanently deleted and cannot be recovered. Are you sure?</phrase>
+</localization>
+<localization>
+<phrase>Clear the chart data and start over?</phrase>
+</localization>
+<localization>
+<phrase>Yes, clear</phrase>
+</localization>
+<localization>
+<phrase>No, keep</phrase>
+</localization>
+<localization>
+<phrase>Authentication error.</phrase>
+</localization>
+<localization>
+<phrase>Cancel</phrase>
+</localization>
+<localization>
+<phrase>Could not connect to server, check your internet connection.</phrase>
+</localization>
+<localization>
+<phrase>Email</phrase>
+</localization>
+<localization>
+<phrase>Forgot password?</phrase>
+</localization>
+<localization>
+<phrase>Not logged in</phrase>
+</localization>
+<localization>
+<phrase>OK</phrase>
+</localization>
+<localization>
+<phrase>Offline</phrase>
+</localization>
+<localization>
+<phrase>Online</phrase>
+</localization>
+<localization>
+<phrase>Password</phrase>
+</localization>
+<localization>
+<phrase>Please sign in</phrase>
+</localization>
+<localization>
+<phrase>Received error trying to sign in</phrase>
+</localization>
+<localization>
+<phrase>School code</phrase>
+</localization>
+<localization>
+<phrase>Server error when signing in.</phrase>
+</localization>
+<localization>
+<phrase>Sign in</phrase>
+</localization>
+<localization>
+<phrase>Sign in failed</phrase>
+</localization>
+<localization>
+<phrase>Sign in to save your answers online</phrase>
+</localization>
+<localization>
+<phrase>Sign in using</phrase>
+</localization>
+<localization>
+<phrase>Sign in using email and password</phrase>
+</localization>
+<localization>
+<phrase>Sign in using school account</phrase>
+</localization>
+<localization>
+<phrase>Sign out</phrase>
+</localization>
+<localization>
+<phrase>Sign up here</phrase>
+</localization>
+<localization>
+<phrase>Username</phrase>
+</localization>
+<localization>
+<phrase>Waiting</phrase>
+</localization>
+<localization>
+<phrase>Waiting for account sign in to complete...</phrase>
+</localization>
+<localization>
+<phrase>Widget configuration error: school doesn't exist</phrase>
+</localization>
+<localization>
+<phrase>Wrong username or password, please try again.</phrase>
+</localization>
+<localization>
+<phrase>You need to be signed in to use this widget.</phrase>
+</localization>
+<localization>
+<phrase>You're currently offline and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're currently online and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're offline</phrase>
+</localization>
+</LocalizationMap>
+<support_student_account value="no">No student accounts</support_student_account>
+<student_account_authproviders>
+<provider>google</provider>
+<provider>bw-student</provider>
+</student_account_authproviders>
+<student_account_school>
+<code/>
+<name/>
+</student_account_school>
+<student_account_authrestrict>true</student_account_authrestrict>
+<DesignConstants widget_font="Verdana" template="Light Background" widget_color="#3498DB" widget_backgroundimage=",auto"/>
+<cover autosize="true" width="451" height="471">https://www.bookwidgets.com/create/api/resources/48/4822883702407168/54/54b17b0f-e958-4e05-bce8-849f7de615d1.jpg?filename=N3.jpg</cover>
+<widget_orientation value="Vertical">Vertical</widget_orientation>
+<barcolors/>
+</Chart>

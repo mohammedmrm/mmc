@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/#" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Introduction to Community Dentistry</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:06c5e14b-02d2-c91a-3b10-0026c98ff0fb</dc:identifier>
+        <meta name="cover" content="img12" />
+
+        <dc:creator>Dr.Lamya Al-Azzzawi Ph.D.  Community Dentistry              Ph.D. Oral Medicine and Diagnosis  AND ALYAA  SABRI</dc:creator>
+        <dc:publisher>N/A</dc:publisher>
+        <dc:rights>Kotobee</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>No description available</dc:description>
+        <meta property="dcterms:modified">2018-10-09T00:19:59Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/raw/ch1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/sw48qs.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/raw/s8lt1u.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/raw/salzhf.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/raw/smtvaa.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/raw/sxjudi.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/raw/symdux.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/raw/s0565p.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/raw/snq40j.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/raw/soe7sf.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/raw/saug3q.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/raw/sw2645.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/raw/s0e5sk.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/raw/s0i2qi.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/raw/s89w2e.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/02.jpg" media-type="image/jpeg"/>
+<item id="img1" href="imgs/2.jpg" media-type="image/jpeg"/>
+<item id="img2" href="imgs/4.jpg" media-type="image/jpeg"/>
+<item id="img3" href="imgs/5.jpg" media-type="image/jpeg"/>
+<item id="img4" href="imgs/6.jpg" media-type="image/jpeg"/>
+<item id="img5" href="imgs/7.jpg" media-type="image/jpeg"/>
+<item id="img6" href="imgs/an.png" media-type="image/png"/>
+<item id="img7" href="imgs/cosity01.jpg" media-type="image/jpeg"/>
+<item id="img8" href="imgs/ev.png" media-type="image/png"/>
+<item id="img9" href="imgs/f101.jpg" media-type="image/jpeg"/>
+<item id="img10" href="imgs/f201.png" media-type="image/png"/>
+<item id="img11" href="imgs/f401.png" media-type="image/png"/>
+<item id="img12" href="imgs/file12450.jpg" properties="cover-image" media-type="image/jpeg"/>
+<item id="img13" href="imgs/hh.png" media-type="image/png"/>
+<item id="img14" href="imgs/t1.png" media-type="image/png"/>
+<item id="img15" href="imgs/t3.jpg" media-type="image/jpeg"/>
+<item id="img16" href="imgs/t4.png" media-type="image/png"/>
+<item id="img17" href="imgs/t5.jpg" media-type="image/jpeg"/>
+<item id="img18" href="imgs/tt.png" media-type="image/png"/>
+<item id="img19" href="imgs/tt1.png" media-type="image/png"/>
+<item id="img20" href="imgs/w1.jpg" media-type="image/jpeg"/>
+<item id="css0" href="css/base.css" media-type="text/css"/>
+<item id="css1" href="css/global.css" media-type="text/css"/>
+<item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="js0" href="js/global.js" media-type="text/javascript"/>
+<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html6" properties="rendition:layout-reflowable"/>
+<itemref idref="html7" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html10" properties="rendition:layout-reflowable"/>
+<itemref idref="html11" properties="rendition:layout-reflowable"/>
+<itemref idref="html12" properties="rendition:layout-reflowable"/>
+<itemref idref="html13" properties="rendition:layout-reflowable"/>
+<itemref idref="html14" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>

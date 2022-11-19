@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="kotobeeEbook" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/#" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title id="title">Untitled Book</dc:title>
+        <dc:identifier id="kotobeeEbook">1</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:creator>Kotobee</dc:creator>
+        <meta property="dcterms:modified"></meta>
+        <meta content="cover-image" name="cover"/>
+        <dc:rights>Kotobee</dc:rights>
+        <meta property="dcterms:source"></meta>
+        <meta property="rendition:layout">reflowable</meta>
+    </metadata>
+    <manifest>
+        <item id="ch1" href="xhtml/raw/ch1.xhtml" media-type="application/xhtml+xml"/>
+		<item id="img1" href="imgs/defaultCover.png" properties="cover-image" media-type="image/png"/>
+    </manifest>
+    <spine>
+        <itemref idref="ch1"/>
+    </spine>
+</package>

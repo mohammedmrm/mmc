@@ -1,0 +1,13 @@
+<BeforeAfter>
+<label>ba2</label>
+<before width="716" height="659" autosize="true">https://www.bookwidgets.com/create/api/resources/48/4822883702407168/d1/d1a92b46-33f5-4f7d-a22b-e0a0cffec98f.png?filename=ba1.png</before>
+<after width="705" height="654" autosize="true">https://www.bookwidgets.com/create/api/resources/48/4822883702407168/17/178548d0-9a0c-4955-8efe-7bbd0972ba6e.png?filename=ba2.png</after>
+<start_position searchable="true">50</start_position>
+<handle_orientation value="horizontal">Horizontal</handle_orientation>
+<resize-policy value="Contain entire picture, keep aspect ratio">Contain entire picture, keep aspect ratio</resize-policy>
+<DesignConstants widget_color="#3498DB" widget_font="Verdana" template="Light Background" widget_backgroundimage=",auto"/>
+<cover autosize="true"/>
+<handle_type value="default">Built-in</handle_type>
+<handle_image autosize="true"/>
+<widget_orientation value="Horizontal">Horizontal</widget_orientation>
+</BeforeAfter>

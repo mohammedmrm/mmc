@@ -1,0 +1,261 @@
+<HotspotImage>
+<label>TEETH</label>
+<background_picture width="212" height="302" autosize="true">https://www.bookwidgets.com/create/api/resources/48/4822883702407168/e4/e4ae3647-9ace-4273-95fc-9aaa8e3b2a11.png?filename=su1.png</background_picture>
+<resize-policy value="Contain entire picture, keep aspect ratio">Contain entire picture, keep aspect ratio</resize-policy>
+<position/>
+<hotspots>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;Enamel&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>Enamel&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position>
+<X>159</X>
+<Y>4</Y>
+<Width>155</Width>
+<Height>50</Height>
+</position>
+<point>
+<x>179</x>
+<y>14</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;CROWN&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>CROWN&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position/>
+<point>
+<x>4</x>
+<y>5</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;ROOT&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>ROOT&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position/>
+<point>
+<x>18</x>
+<y>200</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;PULP&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>PULP&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position>
+<X>146</X>
+<Y>61</Y>
+<Width>150</Width>
+<Height>50</Height>
+</position>
+<point>
+<x>132</x>
+<y>115</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;&quot;,&quot;dataRanges&quot;:[],&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p/>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>146</X>
+<Y>61</Y>
+<Width>150</Width>
+<Height>50</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;CEMENTUM&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>CEMENTUM&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position/>
+<point>
+<x>173</x>
+<y>166</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;DENTIN&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>DENTIN&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position>
+<X>146</X>
+<Y>61</Y>
+<Width>150</Width>
+<Height>50</Height>
+</position>
+<point>
+<x>160</x>
+<y>64</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;PERIODONTAL&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>PERIODONTAL&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position/>
+<point>
+<x>184</x>
+<y>208</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;NERVE AND BLOOD SUPPLY&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>NERVE AND BLOOD SUPPLY&lt;/p>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="label">Label</marker-type>
+<position>
+<X>146</X>
+<Y>61</Y>
+<Width>150</Width>
+<Height>50</Height>
+</position>
+<point>
+<x>140</x>
+<y>260</y>
+</point>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+</TextPopup>
+</hotspots>
+<support_student_account value="no">No student accounts</support_student_account>
+<student_account_authproviders>
+<provider>google</provider>
+<provider>bw-student</provider>
+</student_account_authproviders>
+<student_account_school>
+<code/>
+<name/>
+</student_account_school>
+<student_account_authrestrict>true</student_account_authrestrict>
+<LocalizationMap>
+<localization>
+<phrase>Hotspots accessed</phrase>
+</localization>
+<localization>
+<phrase>Hotspot accesses</phrase>
+</localization>
+<localization>
+<phrase>Authentication error.</phrase>
+</localization>
+<localization>
+<phrase>Cancel</phrase>
+</localization>
+<localization>
+<phrase>Could not connect to server, check your internet connection.</phrase>
+</localization>
+<localization>
+<phrase>Email</phrase>
+</localization>
+<localization>
+<phrase>Forgot password?</phrase>
+</localization>
+<localization>
+<phrase>Not logged in</phrase>
+</localization>
+<localization>
+<phrase>OK</phrase>
+</localization>
+<localization>
+<phrase>Offline</phrase>
+</localization>
+<localization>
+<phrase>Online</phrase>
+</localization>
+<localization>
+<phrase>Password</phrase>
+</localization>
+<localization>
+<phrase>Please sign in</phrase>
+</localization>
+<localization>
+<phrase>Received error trying to sign in</phrase>
+</localization>
+<localization>
+<phrase>School code</phrase>
+</localization>
+<localization>
+<phrase>Server error when signing in.</phrase>
+</localization>
+<localization>
+<phrase>Sign in</phrase>
+</localization>
+<localization>
+<phrase>Sign in failed</phrase>
+</localization>
+<localization>
+<phrase>Sign in to save your answers online</phrase>
+</localization>
+<localization>
+<phrase>Sign in using</phrase>
+</localization>
+<localization>
+<phrase>Sign in using email and password</phrase>
+</localization>
+<localization>
+<phrase>Sign in using school account</phrase>
+</localization>
+<localization>
+<phrase>Sign out</phrase>
+</localization>
+<localization>
+<phrase>Sign up here</phrase>
+</localization>
+<localization>
+<phrase>Username</phrase>
+</localization>
+<localization>
+<phrase>Waiting</phrase>
+</localization>
+<localization>
+<phrase>Waiting for account sign in to complete...</phrase>
+</localization>
+<localization>
+<phrase>Widget configuration error: school doesn't exist</phrase>
+</localization>
+<localization>
+<phrase>Wrong username or password, please try again.</phrase>
+</localization>
+<localization>
+<phrase>You need to be signed in to use this widget.</phrase>
+</localization>
+<localization>
+<phrase>You're currently offline and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're currently online and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're offline</phrase>
+</localization>
+</LocalizationMap>
+<DesignConstants widget_font="Verdana" template="Light Background" widget_color="#3498DB" widget_backgroundimage=",auto"/>
+<cover autosize="true"/>
+<widget_orientation value="Horizontal">Horizontal</widget_orientation>
+</HotspotImage>
